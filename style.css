@@ -20,6 +20,17 @@
     border-radius: 5px;
 }
 
+#github
+{
+    font-family: Source Code Pro;
+    background-color: rgb(5, 5, 5);
+    color: white;
+    border: none;
+    height: 25px;
+    background-image: url();
+    border-radius: 5px;
+}
+
 #reddit
 {
     font-family: "Source Code Pro";
