@@ -1,5 +1,7 @@
 .Title
 {
+    color: white;
+    background-color: rgb(34, 34, 34);
     font-family: "Source Code Pro SemiBold";
     font-style: bold;
     align-content: center;
